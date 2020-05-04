@@ -127,6 +127,10 @@
 
 </style>
 
+<svelte:head>
+	<title>Facebook Ad Preview</title>
+</svelte:head>
+
 <div class="header">
 	<h1>Facebook Ad Preview</h1>
 	<p>Enter the form data below to generate Ad Previews from your account</p>
